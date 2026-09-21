@@ -16,7 +16,6 @@ int main() {
         str[j] = temp;
     }
 
-    // Print result
     printf("Reversed string: %s\n", str);
 
     return 0;
